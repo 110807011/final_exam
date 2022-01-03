@@ -1,0 +1,20 @@
+h1{
+    color:blue;
+    font-family: Helvetica, sans-serif;
+}
+
+p{
+    color:rgb(0, 0, 0);
+    @import url('https://fonts.googleapis.com/css?family=Arial');
+}
+
+.orange{
+    background-color:red ;
+    border-radius: 25px;
+}
+
+.broccoli{
+    background-color:yellow ;
+    border-radius: 25px;
+
+}
